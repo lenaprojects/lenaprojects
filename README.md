@@ -13,8 +13,7 @@ Keep communication clear, organized, and human
 
 Learn new tools fast and adapt even faster
 
-🧠 What I’m Learning
-I’m continuallly expanding my skills in:
+🧠 What I’m continuallly expanding my skills in:
 
 Agile & Scrum
 
